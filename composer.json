@@ -1,0 +1,15 @@
+{
+    "name": "sonhp/request-logger",
+    "description": "Laravel middleware request logger",
+    "type": "library",
+    "require": {
+        "php": "^7",
+        "illuminate/http": "^5.8",
+        "illuminate/support": "^5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "SonHP\\": "src/"
+        }
+    }
+}
